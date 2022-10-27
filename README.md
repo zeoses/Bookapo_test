@@ -15,7 +15,8 @@ and then activate it
 6 - Create a superuser
 `python manage.py createsuperuser`
 
-7 - Run server `python manage.py runserver` and open `localhost:8000` in your browser.
+7 - Run server `python manage.py runserver` and open `localhost:8000` in your browser.  
+
 8 - loging from `http://127.0.0.1:8000/admin/` and add user to profile
 9 - go to `http://127.0.0.1:8000/redoc/` and see project document
 ## for test
